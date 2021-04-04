@@ -1,2 +1,2 @@
 # ml-binp
-Materials for ML course at Budker Institute of Nuclear Physic
+Materials for ML course at Budker Institute of Nuclear Physics
